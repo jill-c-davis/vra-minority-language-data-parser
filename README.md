@@ -27,7 +27,6 @@ This file can be generated for any state by modifying the filter at the end of t
 - xml2
 - writexl
 - RMarkdown
-- 
 ---
 ✍️ Author: Jillian Davis  
 📅 March 2025
